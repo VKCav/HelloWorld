@@ -1,2 +1,2 @@
 # HelloWorld
-Today I am learning how github works for a group assignment on my masters course.
+Can I remember how to do this on my own? I hope so!
